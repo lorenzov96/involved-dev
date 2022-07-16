@@ -5,21 +5,20 @@
 - checklist feature wide
 - process
 - principles
-  - kiss
+  - kiss (Keep it simple, stupid) (https://en.wikipedia.org/wiki/KISS_principle)
   - [YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
-  - composition over inheritance
-  - big ball of mud
+  - composition over inheritance   (https://en.wikipedia.org/wiki/Composition_over_inheritance#:~:text=Composition%20over%20inheritance%20(or%20composite,than%20inheritance%20from%20a%20base)
+  - big ball of mud (https://en.wikipedia.org/wiki/Big_ball_of_mud#:~:text=A%20big%20ball%20of%20mud,type%20of%20design%20anti%2Dpattern.)
   - no abstraction is better than bad abstraction
   - guard code aganst future changes
   - refactor boundaries
   - low coupling high coesion
   - open close
-  - solid
+  - solid (https://en.wikipedia.org/wiki/SOLID)
   - twelve factor apps
-  - DRY
-  - WET
-  - SRP
-  - open closed
+  - DRY (Don't repeat yourself) (https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
+  - WET (write everything twice) 
+  - SRP (single-responsibility principle) (https://en.wikipedia.org/wiki/Single-responsibility_principle)
   - AHA (avaoid hasty abstractions)
   - worse is better
   - If it ain’t broke, don’t fix it
